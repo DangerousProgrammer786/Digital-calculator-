@@ -26,7 +26,11 @@ int main()
             cout<<"The division = " <<num1/num2<<endl;
         else if(x=='%')
             cout<<"The remainder = " <<num1%num2<<endl;
-    }
+  else 
+cout<<"Wrong input"<<endl;
+      }
+    
 
-    cout<<"Wrong input";
+   
 }
+    
